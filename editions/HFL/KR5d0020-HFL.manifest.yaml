@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0020/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5d0020/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易參同契鼎器歌明鏡圖
+  date: '2015-08-29 00:59:27.737021'
+  source:
+    repository: kanripo
+    path: KR5d0020
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0020_000-HFL.yaml, hash: 'sha256:e097dc2d99597dcaef0332e37730b4b0b3fa2a74904f3db20200d7db75aa0597'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0020_000-HFL.markers.yaml, hash: 'sha256:580bf1bfb009d598cd2458db6b82e100eaadcacc0e953777992d7bc6ac86dcdd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0020_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2724
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:0088d0203837f4b4e20f7815abbd415ff133f15ef8558ed07287aaeebf1b93e8
