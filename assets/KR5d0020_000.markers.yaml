@@ -1345,5 +1345,6 @@ markers:
   - {type: 'kr:newline', offset: 2724, content: '
 
       ', id: KR5d0020_krp_000-bkkkrnewl271}
+  - {type: 'voice:problem', offset: 2724, length: 0, id: KR5d0020_bkk_000-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 2724}
   back: []
-hash: sha256:00569e7b376fe6de5289764b54ab1bb7efc2ce43e385011e0fc352884b19c644
+hash: sha256:0913ac928c5af1a81b28479d2d16e48339d0558c757782bb597e5d6ac1d6f1dd
